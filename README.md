@@ -3,8 +3,8 @@
 # Seting up a "Hello Microverse" project
 
 > its the first project to creat a simple header line!
+> 
 ![screenshot](screenshot.png)
-
 
 there is no special features in this project yet! its just a header!!!
 
